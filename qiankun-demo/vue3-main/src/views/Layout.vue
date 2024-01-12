@@ -149,10 +149,7 @@ function initKeys() {
 watchEffect(initKeys)
 
 function toGithub() {
-  window.open(
-    'https://github.com/MAXLZ1/micro-app-demos/tree/main/packages/qiankun-demo',
-    '_blank'
-  )
+  window.open('https://github.com/qdleader/vite-qiankun-template', '_blank')
 }
 </script>
 
